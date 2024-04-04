@@ -1,8 +1,8 @@
 # Bank-Management-System
-#Overview
+# Overview
 The Bank Management System is a C++ program designed to manage banking operations using Object-Oriented Programming (OOP) concepts. It provides functionalities such as creating and managing customer accounts, depositing and withdrawing funds, transferring money between accounts, and generating account statements.
 
-#Features
+# Features
 Account Management: Create, view, update, and delete customer accounts.
 Transactions: Deposit, withdraw, transfer funds between accounts.
 Account Statements: Generate account statements for transactions.
