@@ -12,13 +12,17 @@ C++ Compiler: Ensure you have a C++ compiler installed on your system (e.g., GCC
 Operating System: Compatible with Windows, Linux, and macOS.
 # Usage
 Clone the repository to your local machine:
+
 git clone https://github.com/yourusername/bank-management-system.git
 
 Navigate to the project directory:
+
 cd bank-management-system
 
 Compile the source code:
+
 g++ bankManagement.cpp -o bankManagement
 
 Run the executable:
+
 ./bankManagement
